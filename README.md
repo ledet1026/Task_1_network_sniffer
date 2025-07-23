@@ -17,6 +17,7 @@ The sniffer capture and parses "Ethernet", "IPv4", "ICMP", "TCP" and "UDP" packe
 Must ru with "sudo" (admin access required for raw sockets)
 
 ''' bash
+
 sudo python3 packet_sniffer_raw_socket.py
 
 ##Author
