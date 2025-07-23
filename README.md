@@ -2,6 +2,7 @@
 
 ## Description
 This project is part of CodeAlpha Cybersecurity Internship(July 2025)
+
 I built a "network packet sniffer" using python's 'socket' module with raw sockets.
 
 The sniffer capture and parses "Ethernet", "IPv4", "ICMP", "TCP" and "UDP" packets from the network interface in real time, displaying structured details and payloads.
@@ -14,7 +15,7 @@ The sniffer capture and parses "Ethernet", "IPv4", "ICMP", "TCP" and "UDP" packe
 -Custom consol output formatting
 
 ## How to Run 
-Must ru with "sudo" (admin access required for raw sockets)
+Must run with "sudo" (admin access required for raw sockets)
 
 ''' bash
 
