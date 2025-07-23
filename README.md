@@ -1,4 +1,4 @@
-# Task_1_network_sniffer
+# Task 1 – Packet Sniffer using Raw Sockets
 
 ## Description
 This project is part of CodeAlpha Cybersecurity Internship(July 2025)
